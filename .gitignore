@@ -1,0 +1,14 @@
+# Entorno virtual y caché de Python
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Datos y salidas de depuración
+data/
+runs/
+
+# Pesos de modelos (YOLO y PyTorch)
+*.pt
+*.pth
+*.onnx

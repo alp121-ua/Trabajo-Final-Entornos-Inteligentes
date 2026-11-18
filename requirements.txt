@@ -1,0 +1,16 @@
+requests 
+pandas 
+yt-dlp 
+opencv-python 
+tqdm 
+kagglehub 
+huggingface_hub
+ipykernel
+numpy
+scipy
+matplotlib
+urllib3
+ultralytics
+torch
+torchvision
+scikit-learn

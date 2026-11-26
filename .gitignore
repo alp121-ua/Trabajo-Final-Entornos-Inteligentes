@@ -7,6 +7,7 @@ __pycache__/
 # Datos y salidas de depuración
 data/
 runs/
+14984667/
 
 # Pesos de modelos (YOLO y PyTorch)
 *.pt
